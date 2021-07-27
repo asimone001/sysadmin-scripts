@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Tech" text="Tech">
+      <outline text="Reddit - Sysadmin" title="Reddit - Sysadmin" type="rss" 
+            xmlUrl="https://www.reddit.com/r/sysadmin/new/.rss" htmlUrl="https://www.reddit.com/r/sysadmin/new/"/>
+      <outline text="Windows OS Hub" title="Windows OS Hub" type="rss" 
+            xmlUrl="http://woshub.com/feed/" htmlUrl="http://woshub.com"/>
+      <outline text="Adam the Automator" title="Adam the Automator" type="rss" 
+            xmlUrl="https://adamtheautomator.com/feed/" htmlUrl="https://adamtheautomator.com"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" 
+            xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
+      <outline text="TheVerge - Tech" title="Tech" type="rss" 
+            xmlUrl="https://www.theverge.com/rss/tech/index.xml" htmlUrl="https://www.theverge.com/tech"/>
+      <outline text="4sysops" title="4sysops | Site Wide Activity RSS Feed" type="rss" 
+            xmlUrl="https://4sysops.com/feed/" htmlUrl="https://4sysops.com"/>
+      <outline text="Everythingsysadmin" title="Everythingsysadmin" type="rss" 
+            xmlUrl="https://feeds.everythingsysadmin.com/EverythingSysadmin" htmlUrl="https://everythingsysadmin.com/"/>
+      <outline text="The Register" title="The Register" type="rss" 
+            xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/"/>
+      <outline text="Hacker News" title="Hacker News" type="rss" 
+            xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="TechRepublic" title="TechRepublic" type="rss" 
+            xmlUrl="https://www.techrepublic.com/rssfeeds/articles/?feedType=rssfeeds&amp;sort=latest" htmlUrl="https://www.techrepublic.com/"/>
+  </outline>
+  <outline title="sec" text="sec">
+      <outline text="Threatpost" title="Threatpost" type="rss" 
+            xmlUrl="https://threatpost.com/feed/" htmlUrl="https://threatpost.com"/>
+      <outline text="Google Online Security Blog" title="Google Online Security Blog" type="rss" 
+            xmlUrl="https://security.googleblog.com/feeds/posts/default?alt=rss" htmlUrl="http://security.googleblog.com/"/>
+      <outline text="Krebs on Security" title="Krebs on Security" type="rss" 
+            xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+      <outline text="The Register - Security" title="The Register - Security" type="rss" 
+            xmlUrl="https://www.theregister.com/security/headlines.atom" htmlUrl="https://www.theregister.com/security/"/>
+      <outline text="The Hacker News" title="The Hacker News" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/"/>
+  </outline>
+  <outline title="Entertainment" text="Entertainment">
+      <outline text="The Register - BOFH" title="The Register - BOFH" type="rss" 
+            xmlUrl="https://www.theregister.com/offbeat/bofh/headlines.atom" htmlUrl="https://www.theregister.com/offbeat/bofh/"/>
+      <outline text="Reddit - i7t12" title="Reddit - iiiiiiitttttttttttt" type="rss" 
+            xmlUrl="https://www.reddit.com/r/iiiiiiitttttttttttt/new/.rss" htmlUrl="https://www.reddit.com/r/iiiiiiitttttttttttt/new/"/>
+      <outline text="Reddit - ShittySysadmin" title="Reddit - ShittySysadmin" type="rss" 
+            xmlUrl="https://www.reddit.com/r/ShittySysadmin/new/.rss" htmlUrl="https://www.reddit.com/r/ShittySysadmin/new/"/>
+      <outline text="Reddit - Sysadminhumor" title="Reddit - Sysadminhumor" type="rss" 
+            xmlUrl="https://www.reddit.com/r/sysadminhumor/new/.rss" htmlUrl="https://www.reddit.com/r/sysadminhumor/new/"/>
+  </outline>
+</body>
+</opml>
