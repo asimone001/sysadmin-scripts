@@ -5,8 +5,6 @@
 </head>
 <body>
   <outline title="Tech" text="Tech">
-      <outline text="Reddit - Sysadmin" title="Reddit - Sysadmin" type="rss" 
-            xmlUrl="https://www.reddit.com/r/sysadmin/new/.rss" htmlUrl="https://www.reddit.com/r/sysadmin/new/"/>
       <outline text="Windows OS Hub" title="Windows OS Hub" type="rss" 
             xmlUrl="http://woshub.com/feed/" htmlUrl="http://woshub.com"/>
       <outline text="Adam the Automator" title="Adam the Automator" type="rss" 
@@ -21,8 +19,6 @@
             xmlUrl="https://feeds.everythingsysadmin.com/EverythingSysadmin" htmlUrl="https://everythingsysadmin.com/"/>
       <outline text="The Register" title="The Register" type="rss" 
             xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/"/>
-      <outline text="Hacker News" title="Hacker News" type="rss" 
-            xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="TechRepublic" title="TechRepublic" type="rss" 
             xmlUrl="https://www.techrepublic.com/rssfeeds/articles/?feedType=rssfeeds&amp;sort=latest" htmlUrl="https://www.techrepublic.com/"/>
   </outline>
