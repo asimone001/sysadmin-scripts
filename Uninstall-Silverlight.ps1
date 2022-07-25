@@ -15,7 +15,7 @@ $pkgName = "*Silverlight*"
 
 If (Get-Package -Name $pkgName) {
     Write-Host "Silverlight found, removing it..."
-    Uninstall-Package -Name $pkgName -AllVersions -Force
+    Get-Package -Name $pkgName | Uninstall-Package -AllVersions -Force
 }
 else {
     Write-Host "Silverlight not found."
