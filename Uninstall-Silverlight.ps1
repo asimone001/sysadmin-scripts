@@ -11,4 +11,12 @@
     https://i.imgur.com/cXjhpcX.jpg
 #>
 
-Get-Package -Name *Silverlight* | Uninstall-Package -AllVersions -Force
+$pkgName = "*Silverlight*"
+
+If (Get-Package -Name $pkgName) {
+    Write-Host "Silverlight found, removing it..."
+    Uninstall-Package -Name $pkgName -AllVersions -Force
+}
+else {
+    Write-Host "Silverlight not found."
+}
