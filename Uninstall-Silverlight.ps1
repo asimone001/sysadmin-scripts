@@ -11,4 +11,4 @@
     https://i.imgur.com/cXjhpcX.jpg
 #>
 
-Get-Package -Name *Silverlight* | Uninstall-Package
+Get-Package -Name *Silverlight* | Uninstall-Package -AllVersions -Force
