@@ -18,5 +18,5 @@ If (Get-Package -Name $pkgName) {
     Get-Package -Name $pkgName | Uninstall-Package -AllVersions -Force
 }
 else {
-    Write-Host "Silverlight not found."
+    Write-Host "Silverlight not found, exiting script now."
 }
