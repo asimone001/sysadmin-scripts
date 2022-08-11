@@ -12,8 +12,8 @@
   .NOTES
     Author: Anthony Simone
     Created: 17 March 2020
-    Updated: 4 May 2021
-    Version: 1.4.1
+    Updated: 11 August 2022
+    Version: 1.4.2
 #>
 
 param(
