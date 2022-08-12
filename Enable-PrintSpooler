@@ -1,0 +1,5 @@
+$svc_name = "Spooler"
+
+Set-Service $svc_name -StartupType Automatic
+
+Get-Service | Where-Object {$_.Name -eq $svc_name} | Start-Service
