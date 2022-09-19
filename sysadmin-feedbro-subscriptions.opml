@@ -33,6 +33,12 @@
             xmlUrl="https://www.theregister.com/security/headlines.atom" htmlUrl="https://www.theregister.com/security/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" 
             xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/"/>
+      <outline text="Dark Reading" title="Dark Reading" type="rss"
+            xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com"/>
+      <outline text="Infosecurity Magazine" title="Infosecurity Magazine" type="rss" 
+            xmlUrl="https://www.infosecurity-magazine.com/rss/news/" htmlUrl="https://www.infosecurity-magazine.com/news/"/>
+      <outline text="BleepingComputer" title="BleepingComputer" type="rss" 
+            xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
   </outline>
   <outline title="Entertainment" text="Entertainment">
       <outline text="The Register - BOFH" title="The Register - BOFH" type="rss" 
