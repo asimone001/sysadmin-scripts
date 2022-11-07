@@ -23,8 +23,6 @@
             xmlUrl="https://www.techrepublic.com/rssfeeds/articles/?feedType=rssfeeds&amp;sort=latest" htmlUrl="https://www.techrepublic.com/"/>
   </outline>
   <outline title="sec" text="sec">
-      <outline text="Threatpost" title="Threatpost" type="rss" 
-            xmlUrl="https://threatpost.com/feed/" htmlUrl="https://threatpost.com"/>
       <outline text="Google Online Security Blog" title="Google Online Security Blog" type="rss" 
             xmlUrl="https://security.googleblog.com/feeds/posts/default?alt=rss" htmlUrl="http://security.googleblog.com/"/>
       <outline text="Krebs on Security" title="Krebs on Security" type="rss" 
